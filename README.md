@@ -1,2 +1,2 @@
 # LearningAnalytics
-This repo contains my code and notebooks for Learning Analytics course
+This repo contains my code and notebooks for Learning Analytics
